@@ -9,7 +9,7 @@ used the german traffic sign datset from kaggle:
     https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
     
     model architecture:
-    ![](Traffic-Signs-Deep-Learning-Classification/model_architecture.png)
+    ![](Traffic-Signs-Deep-Learning-Classification/Traffic-Signs-Deep-Learning-Classification/model_architecture.png)
     
     
     
