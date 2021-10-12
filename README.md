@@ -12,7 +12,7 @@ used the german traffic sign datset from kaggle:
 ![](Traffic-Signs-Deep-Learning-Classification/model_architecture.png)
 
     Real time classifying from camera:
-![](Traffic-Signs-Deep-Learning-Classification/1.pmg)
+![](Traffic-Signs-Deep-Learning-Classification/1.png)
 ![](Traffic-Signs-Deep-Learning-Classification/2.png)
 ![](Traffic-Signs-Deep-Learning-Classification/4.png)
 
